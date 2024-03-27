@@ -28,8 +28,5 @@ Datos globales en abierto
 
 * Ventajas e inconvenientes: por qué seguimos haciendo modelos propios.
 
-Modelos propios: nociones básicas de programación
--------------------------------------------------
 
-* Introducción al lenguaje *Python* para la Ecuación Diferencial de balance vertical de una laguna.
 
