@@ -17,10 +17,10 @@ Datos globales en abierto
 
 * Herramientas para el mapping de inundaciones y software básico: 
 
-  * *JRC* usando *QGIS*
-  * *JRC* usando *GEE*
-  * Eventos extremos, navegador *JBA* para Azul y Tandil
-  * Google *Flood Hub*
+  * *JRC* usando *QGIS*.
+  * *JRC* usando *GEE*.
+  * Eventos extremos, navegador *JBA* para Azul y Tandil.
+  * Google *Flood Hub*, en tiempo real y con pronóstico.
 
 * Modelos Digitales de Elevación:
 
