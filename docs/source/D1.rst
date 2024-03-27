@@ -13,6 +13,11 @@ Primera Sesión
 
   * *JRC* usando *QGIS*
   * *JRC* usando *GEE*
+  * Eventos extremos, *JBA* para Azul y Tandil
+
+* Modelos Digitales de Elevación globales
+
+  * *FABDEM*
 
 * Nociones básicas de programación, uso de lenguaje *Python* para la Ecuación Diferencial de balance vertical de una laguna.
 
