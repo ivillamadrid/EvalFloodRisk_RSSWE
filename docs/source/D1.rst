@@ -20,13 +20,16 @@ Datos globales en abierto
   * *JRC* usando *QGIS*
   * *JRC* usando *GEE*
   * Eventos extremos, navegador *JBA* para Azul y Tandil
+  * Google *Flood Hub*
 
 * Modelos Digitales de Elevación:
 
   * *FABDEM*
 
-Nociones básicas de programación
---------------------------------
+* Ventajas e inconvenientes: por qué seguimos haciendo modelos propios.
 
-* Uso de lenguaje *Python* para la Ecuación Diferencial de balance vertical de una laguna.
+Modelos propios: nociones básicas de programación
+-------------------------------------------------
+
+* Introducción al lenguaje *Python* para la Ecuación Diferencial de balance vertical de una laguna.
 
