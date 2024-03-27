@@ -4,6 +4,7 @@ Primera Sesión
 * Introducción y objetivos generales
 
 * Problemas de partida, dos escenarios bien diferentes: 
+
 .. * Llanura Pampeana: Azul, Buenos Aires. 
 .. * Quebrada Andina: Carossio, Lima.
 
