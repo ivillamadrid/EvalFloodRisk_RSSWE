@@ -1,22 +1,22 @@
-Welcome to Lumache's documentation!
-===================================
+Bienvenidos al índice del curso Evaluación de Riesgo de Inundación con Sensores Remotos y Modelización
+======================================================================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Curso en modalidad remota de 30 horas de duración, programado para sesiones de 4 horas, un día por semana, 
+en los meses de Mayo y Junio de 2024.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Para más información contactar con el responsable `Ignacio Villanueva <ivillanueva@ihlla.org.ar>`_
 
 .. note::
+   
+Proyecto en desarrollo, promocionado por `IHLLA <https://ihlla.org.ar/>` e  `ivillanueva.earth <https://www.ivillanueva.earth/>`_, 
+desde Marzo de 2024.
 
-   This project is under active development.
 
-Contents
---------
+
+Contenido
+---------
 
 .. toctree::
 
-   usage
+   #usage
    api
