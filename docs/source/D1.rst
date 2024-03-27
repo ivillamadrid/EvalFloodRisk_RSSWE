@@ -2,22 +2,31 @@
 Primera Sesión
 ==============
 
-* Introducción y objetivos generales del curso.
+Introducción
+------------
+
+* Objetivos generales del curso.
 
 * Problemas de partida, dos escenarios bien diferentes: 
 
   * Llanura Pampeana: Azul, Buenos Aires. 
   * Quebrada Andina: Carossio, Lima.
 
-* Herramientas globales para el mapping de inundaciones y software básico: 
+Datos globales en abierto
+-------------------------
+
+* Herramientas para el mapping de inundaciones y software básico: 
 
   * *JRC* usando *QGIS*
   * *JRC* usando *GEE*
   * Eventos extremos, navegador *JBA* para Azul y Tandil
 
-* Modelos Digitales de Elevación globales
+* Modelos Digitales de Elevación:
 
   * *FABDEM*
 
-* Nociones básicas de programación, uso de lenguaje *Python* para la Ecuación Diferencial de balance vertical de una laguna.
+Nociones básicas de programación
+--------------------------------
+
+* Uso de lenguaje *Python* para la Ecuación Diferencial de balance vertical de una laguna.
 
