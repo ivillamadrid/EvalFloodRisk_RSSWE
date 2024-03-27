@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'EvalFloodRisk'
+copyright = '2024, ivillanueva.earth'
+author = 'Ignacio Villanueva'
 
 release = '0.1'
 version = '0.1.0'
