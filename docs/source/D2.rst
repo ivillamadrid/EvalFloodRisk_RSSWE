@@ -3,3 +3,11 @@ Modelos propios: inicio a la programación con Python
 
 
 
+Generalidades del lenguaje *Python*: ejemplos básicos
+-----------------------------------------------------
+
+
+Ecuación Diferencial de balance vertical de una laguna
+-------------------------------------------------------
+
+
