@@ -6,6 +6,9 @@ Apps:
 `QGIS <https://qgis.org/es/site/forusers/download.html>`_
 `R <https://cran.r-project.org/mirrors.html>`_
 
+Base Datos Inundaciones global:
+`JRC <https://global-surface-water.appspot.com/>`_
+
 Modelo Digital Elevaciones global:
 `FABDEM <https://data.bris.ac.uk/data/dataset/s5hqmjcdj8yo2ibzi9b4ew3sn>`_
 
@@ -17,5 +20,10 @@ Software cálculo local:
 `Open-Drone-Map <https://www.opendronemap.org>`_
 `RIVeR <https://riverdischarge.blogspot.com>`_
 
-`Datos curso compartidos via G-drive <https://drive.google.com/>`_
+`Datos curso compartidos via G-drive <https://drive>`_
+
+
+Ejemplos on-line:
+
+`JBA Flood Maps para Azul y Tandil <https://app.ellipsis-drive.com/view?pathId=74734854-23f5-4796-81aa-90d02b100e3e&state=266d0c1c-6e50-4111-9a9a-303cc183e7e1>`_
 
