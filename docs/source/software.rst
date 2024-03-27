@@ -13,7 +13,8 @@ Modelo Digital Elevaciones global:
 `FABDEM <https://data.bris.ac.uk/data/dataset/s5hqmjcdj8yo2ibzi9b4ew3sn>`_
 
 Software nube:
-`Google-Earth-Engine <https://developers.google.com/earth-engine/>`_
+`Google Earth Engine <https://developers.google.com/earth-engine/>`_
+`Google Flood Hub <https://sites.research.google/floods/>`_
 
 Software cálculo local:
 `HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_
