@@ -8,8 +8,10 @@ Primera Sesión
   * Llanura Pampeana: Azul, Buenos Aires. 
   * Quebrada Andina: Carossio, Lima.
 
+* Herramientas globales para el mapping de inundaciones: 
+
+  * *JRC* usando *QGIS*
+  * *JRC* usando *GEE*
 
 * Nociones básicas de programación, uso de lenguaje *Python* para la Ecuación Diferencial de balance vertical de una laguna.
-
-* Herramientas globales para el mapping de inundaciones
 
