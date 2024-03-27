@@ -9,11 +9,11 @@ Primera Sesión
   * Llanura Pampeana: Azul, Buenos Aires. 
   * Quebrada Andina: Carossio, Lima.
 
-* Herramientas globales para el mapping de inundaciones: 
+* Herramientas globales para el mapping de inundaciones y software básico: 
 
   * *JRC* usando *QGIS*
   * *JRC* usando *GEE*
-  * Eventos extremos, *JBA* para Azul y Tandil
+  * Eventos extremos, navegador *JBA* para Azul y Tandil
 
 * Modelos Digitales de Elevación globales
 
