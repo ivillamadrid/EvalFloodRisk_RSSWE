@@ -1,6 +1,7 @@
 
 Primera Sesión
 ==============
+
 * Introducción y objetivos generales del curso.
 
 * Problemas de partida, dos escenarios bien diferentes: 
