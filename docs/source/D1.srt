@@ -1,0 +1,10 @@
+
+Primera Sesión
+==============
+* Introducción y objetivos generales
+
+* Problemas de partida, dos escenarios bien diferentes: 
+.. * Llanura Pampeana: Azul, Buenos Aires. 
+.. * Quebrada Andina: Carossio, Lima.
+
+* Nociones básicas de programación, uso de lenguaje *Python* para la Ecuación Diferencial de balance vertical de una laguna.
