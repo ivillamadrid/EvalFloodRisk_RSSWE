@@ -19,6 +19,6 @@ Contenido
 .. toctree::
 
    #usage
-   #sesion_1
-   #sesion_2
+   D1
+   D2
    software
