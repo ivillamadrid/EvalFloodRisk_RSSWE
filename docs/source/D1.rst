@@ -25,7 +25,7 @@ Datos globales en abierto
 
 * Modelos Digitales de Elevación:
 
-  * *FABDEM*
+  * *FABDEM* sobre Copernicus-30.
 
 * Ventajas e inconvenientes: por qué seguimos haciendo modelos propios.
 
