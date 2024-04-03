@@ -4,7 +4,11 @@ Quinta y Sexta sesión: aplicaciones Google-Earth-Engine
 
 Inicio sesión y operaciones básicas
 -----------------------------------
+* Crear usuario, acceso a ficheros remotos
 
+* Operaciones elementales con colecciones de imágenes
+
+* Series Temporales
 
 Identificación de cuerpos de agua
 ----------------------------------
@@ -20,10 +24,10 @@ Identificación de cuerpos de agua
 Precipitación y otros índices
 -----------------------------
 
-* Misiones satelitales CHIRPS, GPM-IMERG
+* Misiones satelitales *CHIRPS*, *GPM-IMERG*
 
 * Índices *NDVI* y *SPI*
 
-* Soil Moisture
+* Soil Moisture con *SMAP*
 
 
