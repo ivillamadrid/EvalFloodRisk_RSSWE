@@ -10,6 +10,8 @@ Inicio sesión y operaciones básicas
 
 * Series Temporales
 
+* Introducción a la familia de satélites Centinela-ESA (Sentinel, Agencia Europea Espacial): 1-SAR y 2-MSI.
+
 Identificación de cuerpos de agua
 ----------------------------------
 
