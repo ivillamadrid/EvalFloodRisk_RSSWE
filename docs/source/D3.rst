@@ -7,6 +7,11 @@ Usos básicos del drone
 
 Fotogrametría con Open-Drone-Map
 --------------------------------
+* Generación de Modelos Digitales de Elevaciones (MDE) para Carossio y Azul
+
+* Análisis de los MDEs con HEC-RAS
 
 LSPIV con RIVeR
 ---------------
+
+* Aforos por velocimetría de partículas a gran escala LSPIV, con videos drone.
