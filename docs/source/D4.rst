@@ -17,19 +17,21 @@ Identificación de cuerpos de agua
 
 * Índice *NDWI*
 
-* Distribución de *Otsu*
+* Distribución bimodal de *Otsu*
 
 * Algoritmos de clasificación supervisados y no supervisados
 
 * Cruzado con MDEs para medir volúmenes
 
-Precipitación y otros índices
------------------------------
+Precipitación, humedad del suelo y otros índices
+-------------------------------------------------
 
 * Misiones satelitales *CHIRPS*, *GPM-IMERG*
 
+* Soil Moisture con *SMAP*
+
 * Índices *NDVI* y *SPI*
 
-* Soil Moisture con *SMAP*
+
 
 
