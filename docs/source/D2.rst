@@ -13,4 +13,10 @@ Ecuación Diferencial de balance vertical de una laguna
 Conceptos y ecuaciones básicas para modelizar procesos de lluvia-escorrentía e inundación
 -----------------------------------------------------------------------------------------
 
+* Estudios locales con HEC-RAS
+
+* Estudios a gran escala con Lisflood-FP
+
+
+
 
