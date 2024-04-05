@@ -1,5 +1,5 @@
-Segunda sesión: Modelos propios
-===============================
+Segunda sesión: Modelos propios y estado del arte
+=================================================
 
 
 
@@ -12,6 +12,8 @@ Ecuación Diferencial de balance vertical de una laguna
 
 Conceptos y ecuaciones básicas para modelizar procesos de lluvia-escorrentía e inundación
 -----------------------------------------------------------------------------------------
+
+* Ecuaciones de aguas poco profundas
 
 * Estudios locales con HEC-RAS
 
