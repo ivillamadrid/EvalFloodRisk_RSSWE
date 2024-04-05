@@ -10,4 +10,7 @@ Generalidades del lenguaje *Python*: ejemplos básicos
 Ecuación Diferencial de balance vertical de una laguna
 -------------------------------------------------------
 
+Conceptos y ecuaciones básicas para modelizar procesos de lluvia-escorrentía e inundación
+-----------------------------------------------------------------------------------------
+
 
