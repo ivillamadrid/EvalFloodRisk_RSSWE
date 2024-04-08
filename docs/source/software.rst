@@ -39,7 +39,7 @@ Ejemplos de mapping on-line:
 Bibliografía Técnica:
 ---------------------
 Collazos, G., Villanueva, I., Briceño, N., Cazenave, G., Guevara, C., Blanco, M. (2018)
-Modelo bidimensional de inundación urbana de la ciudad de Azul (Argentina) con herramientas de uso libre.
+**Modelo bidimensional de inundación urbana de la ciudad de Azul (Argentina) con herramientas de uso libre**.
 Proceedings XXVIII Congreso Latinoamericano de Hidráulica, Buenos Aires, Argentina. 
 https://www.ina.gob.ar/congreso_hidraulica/resumenes/LADHI_2018_RE_444.pdf
 
@@ -47,14 +47,14 @@ Donchyts, G., Winsemius, H., Baart, F. et al. **High-resolution surface water dy
 
 Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., & Moore, R. (2017). **Google Earth Engine: Planetary-scale geospatial analysis for everyone**. Remote Sensing of Environment, 202, 18-27. https://doi.org/10.1016/j.rse.2017.06.031
 
-Hawker, L., Uhe, P., Paulo, L., Sosa, J., Savage, J., Sampson, C., & Neal, J. (2022). A 30 m global map of elevation with forests and buildings removed. Environmental Research Letters, 17(2). https://dx.doi.org/10.1088/1748-9326/ac4d4f
+Hawker, L., Uhe, P., Paulo, L., Sosa, J., Savage, J., Sampson, C., & Neal, J. (2022). **A 30 m global map of elevation with forests and buildings removed**. Environmental Research Letters, 17(2). https://dx.doi.org/10.1088/1748-9326/ac4d4f
 
-Neal, J., Villanueva, I., Wright, N., Willis, T., Fewtrell, T. and Bates, P. (2012), How much physical complexity is needed to model flood inundation?. Hydrol. Process., 26: 2264-2282. https://doi.org/10.1002/hyp.8339 
+Neal, J., Villanueva, I., Wright, N., Willis, T., Fewtrell, T. and Bates, P. (2012). **How much physical complexity is needed to model flood inundation?**. Hydrol. Process., 26: 2264-2282. https://doi.org/10.1002/hyp.8339 
 
 Nevo, S., Morin, E., Gerzi Rosenthal, A., Metzger, A., Barshai, C., Weitzner, D., Voloshin, D., Kratzert, F., Elidan, G., Dror, G., Begelman, G., Nearing, G., Shalev, G., Noga, H., Shavitt, I., Yuklea, L., Royz, M., Giladi, N., Peled Levi, N., Reich, O., Gilon, O., Maor, R., Timnat, S., Shechter, T., Anisimov, V., Gigi, Y., Levin, Y., Moshe, Z., Ben-Haim, Z., Hassidim, A., and Matias, Y.: **Flood forecasting with machine learning models in an operational framework**, Hydrol. Earth Syst. Sci., 26, 4013–4032, https://doi.org/10.5194/hess-26-4013-2022, 2022.
 
 Sánchez, C.D., Villanueva, I., Guevara, C.C. (2023). 
-Modelación Hidrodinámica Bidimensional bajo Enfoques Implícitos y Explícitos para la Gestión Integral de Inundaciones en Áreas Urbanas Ubicadas en Zonas de Llanura a Través de Herramientas de Uso Libre y RPAS. Mecánica Computacional, Vol. 40, Núm. 43,  pp 1661-1670. https://amcaonline.org.ar/ojs/index.php/mc/article/view/6739
+**Modelación Hidrodinámica Bidimensional bajo Enfoques Implícitos y Explícitos para la Gestión Integral de Inundaciones en Áreas Urbanas Ubicadas en Zonas de Llanura a Través de Herramientas de Uso Libre y RPAS**. Mecánica Computacional, Vol. 40, Núm. 43,  pp 1661-1670. https://amcaonline.org.ar/ojs/index.php/mc/article/view/6739
 
 Flavia Tauro, John Selker, Nick van de Giesen, Tommaso Abrate, Remko Uijlenhoet, Maurizio Porfiri, Salvatore Manfreda, Kelly Caylor, Tommaso Moramarco, Jerome Benveniste, Giuseppe Ciraolo, Lyndon Estes, Alessio Domeneghetti, Matthew T. Perks, Chiara Corbari, Ehsan Rabiei, Giovanni Ravazzani, Heye Bogena, Antoine Harfouche, Luca Brocca, Antonino Maltese, Andy Wickert, Angelica Tarpanelli, Stephen Good, Jose Manuel Lopez Alcala, Andrea Petroselli, Christophe Cudennec, Theresa Blume, Rolf Hut & Salvatore Grimaldi (2018). **Measurements and Observations in the XXI century (MOXXI): innovation and multi-disciplinarity to sense the hydrological cycle**, Hydrological Sciences Journal, 63:2, 169-196, https://doi.org/10.1080/02626667.2017.1420191
 
