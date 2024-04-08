@@ -41,7 +41,7 @@ Bibliografía Técnica:
 Collazos, G., Villanueva, I., Briceño, N., Cazenave, G., Guevara, C., Blanco, M. (2018)
 **Modelo bidimensional de inundación urbana de la ciudad de Azul (Argentina) con herramientas de uso libre**.
 Proceedings XXVIII Congreso Latinoamericano de Hidráulica, Buenos Aires, Argentina. 
-https://www.ina.gob.ar/congreso_hidraulica/resumenes/LADHI_2018_RE_444.pdf
+https://www.researchgate.net/publication/327821889_MODELO_BIDIMENSIONAL_DE_INUNDACION_URBANA_DE_LA_CIUDAD_DE_AZUL_ARGENTINA_CON_HERRAMIENTAS_DE_USO_LIBRE
 
 Donchyts, G., Winsemius, H., Baart, F. et al. **High-resolution surface water dynamics in Earth’s small and medium-sized reservoirs**. Sci Rep 12, 13776 (2022). https://doi.org/10.1038/s41598-022-17074-6
 
