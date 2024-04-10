@@ -2,7 +2,7 @@ Segunda sesión: Modelos propios y estado del arte
 =================================================
 
 .. image:: ./Pics/RRI_InOut.gif
-  :width: 360
+  :width: 540
   :alt: RRI_InOut
   :align: center 
 
