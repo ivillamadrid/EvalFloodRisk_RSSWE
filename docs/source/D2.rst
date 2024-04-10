@@ -6,6 +6,8 @@ Segunda sesión: Modelos propios y estado del arte
   :alt: RRI_InOut
   :align: center 
 
+Principales actores de la modelización que se propone, imagen tomada de <RRI https://www.pwri.go.jp/icharm/research/rri/index.html
+>
 
 Generalidades del lenguaje *Python*: ejemplos básicos
 -----------------------------------------------------
