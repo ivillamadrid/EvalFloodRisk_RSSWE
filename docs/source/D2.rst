@@ -1,6 +1,10 @@
 Segunda sesión: Modelos propios y estado del arte
 =================================================
 
+.. image:: ./Pics/RRI_InOut.GIF
+  :width: 280
+  :alt: RRI_InOut
+  :align: left 
 
 
 Generalidades del lenguaje *Python*: ejemplos básicos
