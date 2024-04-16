@@ -1,6 +1,12 @@
 Quinta y Sexta sesión: aplicaciones Google-Earth-Engine
 =======================================================
 
+.. image:: ./Pics/SAR_EbroLab.png
+  :width: 540
+  :alt: SAR_EbroLab
+  :align: center 
+
+Explotación de señal SAR del Sentinel-1 en EbroLab. 
 
 Inicio sesión y operaciones básicas
 -----------------------------------
