@@ -2,6 +2,14 @@
 Primera Sesión
 ==============
 
+.. image:: ./Pics/SaladoMaxExtent.png
+  :width: 540
+  :alt: SaladoMaxExtent
+  :align: center 
+
+Máxima área inundada en la cuenca del Salado, periodo 2001-2016, procesado por `Tellman et al. (2021) 
+<https://doi.org/10.1002/9781119427339.ch5>`_
+
 Introducción
 ------------
 
