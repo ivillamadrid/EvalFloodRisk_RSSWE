@@ -11,6 +11,7 @@ Apps:
 Base Datos Inundaciones global:
 -------------------------------
 `JRC <https://global-surface-water.appspot.com/>`_
+`GFD <https://developers.google.com/earth-engine/datasets/catalog/GLOBAL_FLOOD_DB_MODIS_EVENTS_V1#description>`_
 
 Modelo Digital Elevaciones global:
 ----------------------------------
