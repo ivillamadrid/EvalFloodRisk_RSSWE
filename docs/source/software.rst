@@ -57,6 +57,8 @@ Nevo, S., Morin, E., Gerzi Rosenthal, A., Metzger, A., Barshai, C., Weitzner, D.
 Sánchez, C.D., Villanueva, I., Guevara, C.C. (2023). 
 **Modelación Hidrodinámica Bidimensional bajo Enfoques Implícitos y Explícitos para la Gestión Integral de Inundaciones en Áreas Urbanas Ubicadas en Zonas de Llanura a Través de Herramientas de Uso Libre y RPAS**. Mecánica Computacional, Vol. 40, Núm. 43,  pp 1661-1670. https://amcaonline.org.ar/ojs/index.php/mc/article/view/6739
 
+Tellman, B., Sullivan, J. A., & Doyle, C. S. (2021). Global flood observation with multiple satellites: Applications in rio salado (argentina) and the eastern nile basin. Global drought and flood: Observation, modeling, and prediction, 99-121. https://doi.org/10.1002/9781119427339.ch5
+
 Flavia Tauro, John Selker, Nick van de Giesen, Tommaso Abrate, Remko Uijlenhoet, Maurizio Porfiri, Salvatore Manfreda, Kelly Caylor, Tommaso Moramarco, Jerome Benveniste, Giuseppe Ciraolo, Lyndon Estes, Alessio Domeneghetti, Matthew T. Perks, Chiara Corbari, Ehsan Rabiei, Giovanni Ravazzani, Heye Bogena, Antoine Harfouche, Luca Brocca, Antonino Maltese, Andy Wickert, Angelica Tarpanelli, Stephen Good, Jose Manuel Lopez Alcala, Andrea Petroselli, Christophe Cudennec, Theresa Blume, Rolf Hut & Salvatore Grimaldi (2018). **Measurements and Observations in the XXI century (MOXXI): innovation and multi-disciplinarity to sense the hydrological cycle**, Hydrological Sciences Journal, 63:2, 169-196, https://doi.org/10.1080/02626667.2017.1420191
 
 
