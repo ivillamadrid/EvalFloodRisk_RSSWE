@@ -13,7 +13,7 @@ Se  intercalarán a lo largo del curso las sesiones siguientes por expertos a co
 Cuadro figurativo de Risk Management para el sector agro, por `Benami et al. (2021) 
 <https://doi.org/10.1038/s43017-020-00122-y>`_
 
-.. image:: ./Pics/RiskManagement.png
+.. image:: ./Pics/RiskManagementRed.png
   :width: 540
   :alt: RiskManagement
   :align: center 
