@@ -8,3 +8,5 @@ Se  intercalarán a lo largo del curso las sesiones siguientes por expertos a co
 * Interacción aguas subterráneas-superficiales, cuenca del Azul (MF).
 
 * Riesgo en entornos urbanos, caso de Tandil (LLM).
+
+* Evaluación financiera de daños y pérdidas.
