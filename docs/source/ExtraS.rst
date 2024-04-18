@@ -9,4 +9,5 @@ Se  intercalarán a lo largo del curso las sesiones siguientes por expertos a co
 
 * Riesgo en entornos urbanos, caso de Tandil (LLM).
 
-* Evaluación financiera de daños y pérdidas.
+* Evaluación financiera del riesgo: daños acrecentados por cambio climático.
+
