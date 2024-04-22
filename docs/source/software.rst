@@ -20,7 +20,7 @@ Modelo Digital Elevaciones global:
 Software nube:
 --------------
 `Google Earth Engine <https://developers.google.com/earth-engine/>`_
-`Google Flood Hub <https://sites.research.google/floods/>`_
+
 
 Software cálculo local:
 -----------------------
@@ -31,11 +31,17 @@ Software cálculo local:
 `Datos curso compartidos via G-drive <https://drive>`_
 
 
-Ejemplos de mapping on-line:
-----------------------------
+Mapping on-line:
+----------------
 
 `Mapas de inundación -Q100- para Azul y Tandil <https://app.ellipsis-drive.com/view?pathId=74734854-23f5-4796-81aa-90d02b100e3e&state=266d0c1c-6e50-4111-9a9a-303cc183e7e1>`_, cortesía de la compañía 
 `JBA <https://www.jbafloodmaps.com/>`_
+
+Monitoreo hidro-meteorológico:
+------------------------------
+`Google Flood Hub <https://sites.research.google/floods/>`_
+`IHLLA, BDH <https://app.ihlla.org.ar/>`_
+`IHLLA, IHREDA <http://ftp.redimec.com.ar:5080>`_
 
 Bibliografía Técnica:
 ---------------------
