@@ -7,7 +7,7 @@ Se  intercalarán a lo largo del curso las sesiones siguientes por expertos a co
 
 * Interacción aguas subterráneas-superficiales, cuenca del Azul (MF).
 
-* Riesgo en entornos urbanos, caso de Tandil (LLM).
+* Riesgo en entornos urbanos, caso de Tandil, por Lorena La Macchia.
 
 * Evaluación financiera del riesgo: daños acrecentados por cambio climático.
 Cuadro figurativo de Risk Management para el sector agro, por `Benami et al. (2021) 
