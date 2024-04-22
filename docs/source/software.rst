@@ -46,7 +46,7 @@ Monitoreo hidro-meteorológico:
 Bibliografía Técnica:
 ---------------------
 
-Campos, H. R. P., & Dornes, P. F. (2016). Riesgo hídrico poblacional a la contaminación por efluentes urbanos en Misiones. Revista de Geología Aplicada a la Ingeniería y al Ambiente, (37), 57-66.
+Campos, H. R. P., & Dornes, P. F. (2016). **Riesgo hídrico poblacional a la contaminación por efluentes urbanos en Misiones**. Revista de Geología Aplicada a la Ingeniería y al Ambiente, (37), 57-66.
 
 Collazos, G., Villanueva, I., Briceño, N., Cazenave, G., Guevara, C., Blanco, M. (2018)
 **Modelo bidimensional de inundación urbana de la ciudad de Azul (Argentina) con herramientas de uso libre**.
@@ -57,11 +57,11 @@ Donchyts, G., Winsemius, H., Baart, F. et al. **High-resolution surface water dy
 
 Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., & Moore, R. (2017). **Google Earth Engine: Planetary-scale geospatial analysis for everyone**. Remote Sensing of Environment, 202, 18-27. https://doi.org/10.1016/j.rse.2017.06.031
 
-Grimes, David R.; Rogers, David P.; Schumann, Andreas; Day, Brian F.. (2022). Charting a Course for Sustainable Hydrological and Meteorological Observation Networks in Developing Countries. © World Bank, Washington, DC. http://hdl.handle.net/10986/38071 
+Grimes, David R.; Rogers, David P.; Schumann, Andreas; Day, Brian F.. (2022). **Charting a Course for Sustainable Hydrological and Meteorological Observation Networks in Developing Countries**. © World Bank, Washington, DC. http://hdl.handle.net/10986/38071 
 
 Hawker, L., Uhe, P., Paulo, L., Sosa, J., Savage, J., Sampson, C., & Neal, J. (2022). **A 30 m global map of elevation with forests and buildings removed**. Environmental Research Letters, 17(2). https://dx.doi.org/10.1088/1748-9326/ac4d4f
 
-La Macchia, L. (2023). Modelización hidrodinámica bidimensional y riesgo de inundación mediante TIG: Potencialidades de aplicación para la cuenca urbana de la ciudad de Tandil desde una Geografía Aplicada. Tesis de Maestría en Teledetección y SIG, Facultad de Agronomía, UNCPBA, Azul.
+La Macchia, L. (2023). **Modelización hidrodinámica bidimensional y riesgo de inundación mediante TIG: Potencialidades de aplicación para la cuenca urbana de la ciudad de Tandil desde una Geografía Aplicada**. Tesis de Maestría en Teledetección y SIG, Facultad de Agronomía, UNCPBA, Azul.
 https://www.researchgate.net/publication/379998397_Modelizacion_hidrodinamica_bidimensional_y_riesgo_de_inundacion_mediante_TIG_Potencialidades_de_aplicacion_para_la_cuenca_urbana_de_la_ciudad_de_Tandil_desde_una_Geografia_Aplicada
 
 
@@ -72,7 +72,7 @@ Nevo, S., Morin, E., Gerzi Rosenthal, A., Metzger, A., Barshai, C., Weitzner, D.
 Sánchez, C.D., Villanueva, I., Guevara, C.C. (2023). 
 **Modelación Hidrodinámica Bidimensional bajo Enfoques Implícitos y Explícitos para la Gestión Integral de Inundaciones en Áreas Urbanas Ubicadas en Zonas de Llanura a Través de Herramientas de Uso Libre y RPAS**. Mecánica Computacional, Vol. 40, Núm. 43,  pp 1661-1670. https://amcaonline.org.ar/ojs/index.php/mc/article/view/6739
 
-Tellman, B., Sullivan, J. A., & Doyle, C. S. (2021). Global flood observation with multiple satellites: Applications in rio salado (argentina) and the eastern nile basin. Global drought and flood: Observation, modeling, and prediction, 99-121. https://doi.org/10.1002/9781119427339.ch5
+Tellman, B., Sullivan, J. A., & Doyle, C. S. (2021). **Global flood observation with multiple satellites: Applications in rio salado (argentina) and the eastern nile basin**. Global drought and flood: Observation, modeling, and prediction, 99-121. https://doi.org/10.1002/9781119427339.ch5
 
 Flavia Tauro, John Selker, Nick van de Giesen, Tommaso Abrate, Remko Uijlenhoet, Maurizio Porfiri, Salvatore Manfreda, Kelly Caylor, Tommaso Moramarco, Jerome Benveniste, Giuseppe Ciraolo, Lyndon Estes, Alessio Domeneghetti, Matthew T. Perks, Chiara Corbari, Ehsan Rabiei, Giovanni Ravazzani, Heye Bogena, Antoine Harfouche, Luca Brocca, Antonino Maltese, Andy Wickert, Angelica Tarpanelli, Stephen Good, Jose Manuel Lopez Alcala, Andrea Petroselli, Christophe Cudennec, Theresa Blume, Rolf Hut & Salvatore Grimaldi (2018). **Measurements and Observations in the XXI century (MOXXI): innovation and multi-disciplinarity to sense the hydrological cycle**, Hydrological Sciences Journal, 63:2, 169-196, https://doi.org/10.1080/02626667.2017.1420191
 
