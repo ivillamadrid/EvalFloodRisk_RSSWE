@@ -54,6 +54,8 @@ Donchyts, G., Winsemius, H., Baart, F. et al. **High-resolution surface water dy
 
 Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., & Moore, R. (2017). **Google Earth Engine: Planetary-scale geospatial analysis for everyone**. Remote Sensing of Environment, 202, 18-27. https://doi.org/10.1016/j.rse.2017.06.031
 
+Grimes, David R.; Rogers, David P.; Schumann, Andreas; Day, Brian F.. (2022). Charting a Course for Sustainable Hydrological and Meteorological Observation Networks in Developing Countries. © World Bank, Washington, DC. http://hdl.handle.net/10986/38071 
+
 Hawker, L., Uhe, P., Paulo, L., Sosa, J., Savage, J., Sampson, C., & Neal, J. (2022). **A 30 m global map of elevation with forests and buildings removed**. Environmental Research Letters, 17(2). https://dx.doi.org/10.1088/1748-9326/ac4d4f
 
 Neal, J., Villanueva, I., Wright, N., Willis, T., Fewtrell, T. and Bates, P. (2012). **How much physical complexity is needed to model flood inundation?**. Hydrol. Process., 26: 2264-2282. https://doi.org/10.1002/hyp.8339 
