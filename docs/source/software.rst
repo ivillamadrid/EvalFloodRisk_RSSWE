@@ -61,6 +61,10 @@ Grimes, David R.; Rogers, David P.; Schumann, Andreas; Day, Brian F.. (2022). Ch
 
 Hawker, L., Uhe, P., Paulo, L., Sosa, J., Savage, J., Sampson, C., & Neal, J. (2022). **A 30 m global map of elevation with forests and buildings removed**. Environmental Research Letters, 17(2). https://dx.doi.org/10.1088/1748-9326/ac4d4f
 
+La Macchia, L. (2023). Modelización hidrodinámica bidimensional y riesgo de inundación mediante TIG: Potencialidades de aplicación para la cuenca urbana de la ciudad de Tandil desde una Geografía Aplicada. Tesis de Maestría en Teledetección y SIG, Facultad de Agronomía, UNCPBA, Azul.
+https://www.researchgate.net/publication/379998397_Modelizacion_hidrodinamica_bidimensional_y_riesgo_de_inundacion_mediante_TIG_Potencialidades_de_aplicacion_para_la_cuenca_urbana_de_la_ciudad_de_Tandil_desde_una_Geografia_Aplicada
+
+
 Neal, J., Villanueva, I., Wright, N., Willis, T., Fewtrell, T. and Bates, P. (2012). **How much physical complexity is needed to model flood inundation?**. Hydrol. Process., 26: 2264-2282. https://doi.org/10.1002/hyp.8339 
 
 Nevo, S., Morin, E., Gerzi Rosenthal, A., Metzger, A., Barshai, C., Weitzner, D., Voloshin, D., Kratzert, F., Elidan, G., Dror, G., Begelman, G., Nearing, G., Shalev, G., Noga, H., Shavitt, I., Yuklea, L., Royz, M., Giladi, N., Peled Levi, N., Reich, O., Gilon, O., Maor, R., Timnat, S., Shechter, T., Anisimov, V., Gigi, Y., Levin, Y., Moshe, Z., Ben-Haim, Z., Hassidim, A., and Matias, Y.: **Flood forecasting with machine learning models in an operational framework**, Hydrol. Earth Syst. Sci., 26, 4013–4032, https://doi.org/10.5194/hess-26-4013-2022, 2022.
