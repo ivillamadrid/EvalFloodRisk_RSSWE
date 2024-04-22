@@ -28,6 +28,7 @@ Datos globales en abierto
   * *JRC* usando *QGIS*.
   * *JRC* y *GFD* usando *GEE*.
   * Eventos extremos, navegador *JBA* para Azul y Tandil.
+  * Redes *IHLLA* en tiempo real: IHREDA y BDH 
   * Google *Flood Hub*, en tiempo real y con pronóstico.
   * Índices de calidad: *Jaccard*, *RMSE*, *NSE*, etc.
 
