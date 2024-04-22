@@ -46,6 +46,9 @@ Monitoreo hidro-meteorológico:
 Bibliografía Técnica:
 ---------------------
 
+Bates, P. (2023). Fundamental limits to flood inundation modelling. Nat Water 1, 566–567. 
+https://www.nature.com/articles/s44221-023-00106-4.epdf?no_publisher_access=1&r3_referer=nature
+
 Campos, H. R. P., & Dornes, P. F. (2016). **Riesgo hídrico poblacional a la contaminación por efluentes urbanos en Misiones**. Revista de Geología Aplicada a la Ingeniería y al Ambiente, (37), 57-66.
 
 Collazos, G., Villanueva, I., Briceño, N., Cazenave, G., Guevara, C., Blanco, M. (2018)
