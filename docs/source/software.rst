@@ -45,6 +45,9 @@ Monitoreo hidro-meteorológico:
 
 Bibliografía Técnica:
 ---------------------
+
+Campos, H. R. P., & Dornes, P. F. (2016). Riesgo hídrico poblacional a la contaminación por efluentes urbanos en Misiones. Revista de Geología Aplicada a la Ingeniería y al Ambiente, (37), 57-66.
+
 Collazos, G., Villanueva, I., Briceño, N., Cazenave, G., Guevara, C., Blanco, M. (2018)
 **Modelo bidimensional de inundación urbana de la ciudad de Azul (Argentina) con herramientas de uso libre**.
 Proceedings XXVIII Congreso Latinoamericano de Hidráulica, Buenos Aires, Argentina. 
