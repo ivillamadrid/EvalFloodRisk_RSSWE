@@ -3,7 +3,7 @@ Sesiones especiales
 
 Se  intercalarán a lo largo del curso las sesiones siguientes por expertos a confirmar:
 
-* Modelación a gran escala, Large-Scale-Flood modelling, casos del Atuel-Salado (RP).
+* Riesgo Hídrico Poblacional en Misiones, por Ramiro Páez.
 
 * Interacción aguas subterráneas-superficiales, cuenca del Azul (MF).
 
