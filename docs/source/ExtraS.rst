@@ -5,9 +5,11 @@ Se  intercalarán a lo largo del curso las sesiones siguientes por expertos a co
 
 * Riesgo Hídrico Poblacional en Misiones, por Ramiro Páez.
 
-* Interacción aguas subterráneas-superficiales, cuenca del Azul (MF).
+* Interacción aguas subterráneas-superficiales, cuenca del Azul.
 
-* Riesgo en entornos urbanos, caso de Tandil, por Lorena La Macchia.
+* Riesgo en entornos urbanos, armado de MDE a partir de vuelos drone y escenarios de lluvias, caso de Tandil, por Lorena La Macchia.
+
+* Revisión de Módulos Agro-Hidrológicos para el sector agro.
 
 * Evaluación financiera del riesgo: daños acrecentados por cambio climático.
 Cuadro figurativo de Risk Management para el sector agro, por `Benami et al. (2021) 
