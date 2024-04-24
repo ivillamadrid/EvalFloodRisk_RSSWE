@@ -11,7 +11,7 @@ Se  intercalarán a lo largo del curso las sesiones siguientes por expertos a co
 
 * Revisión de Módulos Agro-Hidrológicos para el sector agro.
 
-* Evaluación financiera del riesgo: daños acrecentados por cambio climático.
+Ejemplo de evaluación financiera del riesgo: daños acrecentados por cambio climático.
 Cuadro figurativo de Risk Management para el sector agro, por `Benami et al. (2021) 
 <https://doi.org/10.1038/s43017-020-00122-y>`_
 
