@@ -32,7 +32,7 @@ Datos globales en abierto
 
   * *JRC* usando *QGIS*.
   * *JRC* y *GFD* usando *GEE*.
-  * Eventos extremos, navegador *JBA* para Azul y Tandil.
+  * Eventos extremos, navegador *JBA* para Azul y Tandil, hipótesis de modelado a gran escala (Large Scale Modelling).
   * Redes hidro-meteorológicas en tiempo real del *IHLLA*: BDH e IHREDA. 
   * Incluyendo  pronósticos fluviales: *Google Flood Hub*.
   
