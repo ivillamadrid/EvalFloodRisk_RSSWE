@@ -1,6 +1,12 @@
 Tercera y Cuarta Sesión: revolución UAV (drone)
 ===============================================
 
+.. image:: ./Pics/UpstreamView.png
+  :width: 540
+  :alt: UpstreamView
+  :align: center 
+
+Vista 3D de la quebrada `Carossio en Lima, Perú <https://www.google.com/maps/place/Avenida+Lima+Norte/@-11.9257535,-76.6892762,1557m/>´_
 
 Usos básicos del drone
 ----------------------
