@@ -64,6 +64,10 @@ Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., & Moore, R. (2
 
 Grimes, David R.; Rogers, David P.; Schumann, Andreas; Day, Brian F.. (2022). **Charting a Course for Sustainable Hydrological and Meteorological Observation Networks in Developing Countries**. © World Bank, Washington, DC. http://hdl.handle.net/10986/38071 
 
+Guth, P.L., Van Niekerk, A., Grohmann, C.H., Muller, J.-P., Hawker, L., Florinsky, I.V., Gesch, D., Reuter, H.I., Herrera-Cruz, V.,
+Riazanoff, S., et al. **Digital Elevation Models: Terminology and Definitions**.
+Remote Sens. 2021, 13, 3581. https://doi.org/10.3390/rs13183581
+
 Hawker, L., Uhe, P., Paulo, L., Sosa, J., Savage, J., Sampson, C., & Neal, J. (2022). **A 30 m global map of elevation with forests and buildings removed**. Environmental Research Letters, 17(2). https://dx.doi.org/10.1088/1748-9326/ac4d4f
 
 La Macchia, L. (2023). **Modelización hidrodinámica bidimensional y riesgo de inundación mediante TIG: Potencialidades de aplicación para la cuenca urbana de la ciudad de Tandil desde una Geografía Aplicada**. Tesis de Maestría en Teledetección y SIG, Facultad de Agronomía, UNCPBA, Azul.
