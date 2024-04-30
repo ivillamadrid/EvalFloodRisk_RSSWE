@@ -25,7 +25,7 @@ Conceptos y ecuaciones básicas para modelizar procesos de lluvia-escorrentía e
 
 * Estudios a gran escala con Lisflood-FP, incluso continental, aproximación conceptual Sub-Grid, ver presentación del trabajo de Páez, Golin y Villanueva en MECOM23@Concordia-Salto, y la estimación iterativa del lecho de `Neal et al. (2021)  <https://doi.org/10.1029/2020WR028301>`_.
 
-. image:: ./Pics/IterativeBedEstimation.jpg
+.. image:: ./Pics/IterativeBedEstimation.jpg
   :width: 540
   :alt: IterativeBedEstimation
   :align: center 
