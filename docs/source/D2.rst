@@ -19,7 +19,7 @@ Ecuación Diferencial de balance vertical de una laguna
 Conceptos y ecuaciones básicas para modelizar procesos de lluvia-escorrentía e inundación
 -----------------------------------------------------------------------------------------
 
-* Ecuaciones de aguas poco profundas
+* Ecuaciones de aguas poco profundas, enlace a curso de `Flood-Mapping <https://floodmapping.readthedocs.io>`_
 
 * Estudios locales con HEC-RAS
 
