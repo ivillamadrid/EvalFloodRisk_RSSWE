@@ -88,4 +88,7 @@ Tellman, B., Sullivan, J. A., & Doyle, C. S. (2021). **Global flood observation 
 
 Flavia Tauro, John Selker, Nick van de Giesen, Tommaso Abrate, Remko Uijlenhoet, Maurizio Porfiri, Salvatore Manfreda, Kelly Caylor, Tommaso Moramarco, Jerome Benveniste, Giuseppe Ciraolo, Lyndon Estes, Alessio Domeneghetti, Matthew T. Perks, Chiara Corbari, Ehsan Rabiei, Giovanni Ravazzani, Heye Bogena, Antoine Harfouche, Luca Brocca, Antonino Maltese, Andy Wickert, Angelica Tarpanelli, Stephen Good, Jose Manuel Lopez Alcala, Andrea Petroselli, Christophe Cudennec, Theresa Blume, Rolf Hut & Salvatore Grimaldi (2018). **Measurements and Observations in the XXI century (MOXXI): innovation and multi-disciplinarity to sense the hydrological cycle**, Hydrological Sciences Journal, 63:2, 169-196, https://doi.org/10.1080/02626667.2017.1420191
 
+S. P. Villacorta, K. G. Evans, K. Nakatani and I. Villanueva, (2020). **Large debris flows in Chosica, Lima, Peru: the application of hydraulic infrastructure for erosion control and disaster prevention**. Australian Journal of Earth Sciences,
+Vol 67, n 3, pp 425-436, 2020. https://doi.org/10.1080/08120099.2020.1690577
+
 
