@@ -21,9 +21,16 @@ Conceptos y ecuaciones básicas para modelizar procesos de lluvia-escorrentía e
 
 * Ecuaciones de aguas poco profundas, enlace a curso de `Flood-Mapping <https://floodmapping.readthedocs.io>`_
 
-* Estudios locales con HEC-RAS
+* Estudios locales con HEC-RAS, Azul y Carossio, escala de pocos Km2.
 
-* Estudios a gran escala con Lisflood-FP
+* Estudios a gran escala con Lisflood-FP, incluso continental, aproximación conceptual Sub-Grid, ver presentación del trabajo de Páez, Golin y Villanueva en MECOM23@Concordia-Salto, y la estimación iterativa del lecho de `Neal et al. (2021)  <https://doi.org/10.1029/2020WR028301>`_.
+
+. image:: ./Pics/IterativeBedEstimation.jpg
+  :width: 540
+  :alt: IterativeBedEstimation
+  :align: center 
+
+Imagen conceptual de las iteraciones para definir el lecho del cauce.
 
 
 
