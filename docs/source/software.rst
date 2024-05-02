@@ -15,11 +15,13 @@ Base Datos Inundaciones global:
 `JRC <https://global-surface-water.appspot.com/>`_
 `GFD <https://developers.google.com/earth-engine/datasets/catalog/GLOBAL_FLOOD_DB_MODIS_EVENTS_V1#description>`_
 
-Modelo Digital Elevaciones global y nacional:
----------------------------------------------
+Modelo Digital Elevaciones global y nacional, capas SIG nacionales:
+-------------------------------------------------------------------
 `FABDEM <https://data.bris.ac.uk/data/dataset/s5hqmjcdj8yo2ibzi9b4ew3sn>`_
 
 `IGN-Argentina <https://www.ign.gob.ar/NuestrasActividades/Geodesia/ModeloDigitalElevaciones/Mapa>`_
+
+`Capas SIG IGN-Argentina <https://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG>`_
 
 Software nube:
 --------------
