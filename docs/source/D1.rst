@@ -33,14 +33,14 @@ Datos globales en abierto
   * *JRC* usando *QGIS*.
   * *JRC* y *GFD* usando *GEE*.
   * Eventos extremos, navegador *JBA* para Azul y Tandil, hipótesis de modelado a gran escala (Large Scale Modelling).
-    Enlace a la charla de Prof. Bates para la EGU-MAL, 2024.
+   
   * Redes hidro-meteorológicas en tiempo real del *IHLLA*: BDH e IHREDA. 
   * Incluyendo  pronósticos fluviales: *Google Flood Hub*.
   
 
 * Modelos Digitales de Elevación:
 
-  * *FABDEM* sobre Copernicus-30.
+  * *FABDEM* (MDT) sobre Copernicus-30, y modelos digitales del IGN.
 
 * Ventajas e inconvenientes: por qué seguimos haciendo modelos propios.
 
