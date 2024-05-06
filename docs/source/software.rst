@@ -49,13 +49,16 @@ Monitoreo hidro-meteorológico:
 `BDH@IHLLA <https://app.ihlla.org.ar/>`_
 `IHREDA@IHLLA <http://ftp.redimec.com.ar:5080>`_
 
-Bibliografía Técnica:
+Bibliografía Riesgo Hídrico Poblacional:
+----------------------------------------
+
+Campos, H. R. P., & Dornes, P. F. (2016). **Riesgo hídrico poblacional a la contaminación por efluentes urbanos en Misiones**. Revista de Geología Aplicada a la Ingeniería y al Ambiente, (37), 57-66. https://www.editoresasagai.org.ar/ojs/index.php/rgaia/article/view/118
+
+Bibliografía General:
 ---------------------
 
 Bates, P. (2023). Fundamental limits to flood inundation modelling. Nat Water 1, 566–567. 
 https://www.nature.com/articles/s44221-023-00106-4.epdf?no_publisher_access=1&r3_referer=nature
-
-Campos, H. R. P., & Dornes, P. F. (2016). **Riesgo hídrico poblacional a la contaminación por efluentes urbanos en Misiones**. Revista de Geología Aplicada a la Ingeniería y al Ambiente, (37), 57-66.
 
 Collazos, G., Villanueva, I., Briceño, N., Cazenave, G., Guevara, C., Blanco, M. (2018)
 **Modelo bidimensional de inundación urbana de la ciudad de Azul (Argentina) con herramientas de uso libre**.
