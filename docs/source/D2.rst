@@ -1,5 +1,5 @@
-Segunda sesión: Modelos propios y estado del arte
-=================================================
+Segunda sesión: Modelos propios  estado del arte
+================================================
 
 .. image:: ./Pics/RRI_InOut.gif
   :width: 540
@@ -8,10 +8,10 @@ Segunda sesión: Modelos propios y estado del arte
 
 Principales actores de la modelización que se propone, imagen tomada del modelo japonés `Rainfall-RunOff-Inundation, RRI <https://www.pwri.go.jp/icharm/research/rri/index.html>`_. El estado del arte en una página, se puede leer en el trabajo de `Bates (2023): <https://www.nature.com/articles/s44221-023-00106-4.epdf?no_publisher_access=1&r3_referer=nature>`_ *Límites fundamentales en la modelización de inundaciones*. 
  
-Paradigmas de la información: Teoría-Datos-Aplicaciones
+Paradigmas de la información: Aplicaciones-Teoría-Datos
 
-.. image:: ./Pics/DataCentricParadigm_2024.png
-  :width: 540
+.. image:: ./Pics/DataCentricParadigm_2024.jpg
+  :width: 270
   :alt: Paradigm
   :align: center 
 
