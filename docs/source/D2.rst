@@ -8,13 +8,13 @@ Segunda sesión: Modelos propios y estado del arte
 
 Principales actores de la modelización que se propone, imagen tomada del modelo japonés `Rainfall-RunOff-Inundation, RRI <https://www.pwri.go.jp/icharm/research/rri/index.html>`_. El estado del arte en una página, se puede leer en el trabajo de `Bates (2023): <https://www.nature.com/articles/s44221-023-00106-4.epdf?no_publisher_access=1&r3_referer=nature>`_ *Límites fundamentales en la modelización de inundaciones*. 
  
+Paradigmas de la información: Teoría-Datos-Aplicaciones
 
-Generalidades del lenguaje *Python*: ejemplos básicos
------------------------------------------------------
+.. image:: ./Pics/DataCentricParadigm_2024.png
+  :width: 540
+  :alt: Paradigm
+  :align: center 
 
-
-Ecuación Diferencial de balance vertical de una laguna
--------------------------------------------------------
 
 Conceptos y ecuaciones básicas para modelizar procesos de lluvia-escorrentía e inundación
 -----------------------------------------------------------------------------------------
@@ -33,5 +33,10 @@ Conceptos y ecuaciones básicas para modelizar procesos de lluvia-escorrentía e
 Imagen conceptual de las iteraciones para definir el lecho del cauce.
 
 
+Generalidades del lenguaje *Python*: ejemplos básicos
+-----------------------------------------------------
 
+
+Ecuación Diferencial de balance vertical de una laguna
+-------------------------------------------------------
 
