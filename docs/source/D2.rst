@@ -33,10 +33,5 @@ Conceptos y ecuaciones básicas para modelizar procesos de lluvia-escorrentía e
 Imagen conceptual de las iteraciones para definir el lecho del cauce.
 
 
-Generalidades del lenguaje *Python*: ejemplos básicos
------------------------------------------------------
 
-
-Ecuación Diferencial de balance vertical de una laguna
--------------------------------------------------------
 
