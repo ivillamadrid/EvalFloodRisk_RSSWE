@@ -1,4 +1,4 @@
-Tercera y Cuarta Sesión: revolución UAV (drone)
+Cuarta Sesión: revolución UAV (drone)
 ===============================================
 
 .. image:: ./Pics/UpstreamView.png
