@@ -1,5 +1,5 @@
-Segunda sesión: Modelos propios  estado del arte
-================================================
+Segunda y tercera sesión: Modelos propios  estado del arte
+==========================================================
 
 .. image:: ./Pics/RRI_InOut.gif
   :width: 540
@@ -21,7 +21,9 @@ Conceptos y ecuaciones básicas para modelizar procesos de lluvia-escorrentía e
 
 * Ecuaciones de aguas poco profundas, enlace a curso de `Flood-Mapping <https://floodmapping.readthedocs.io>`_
 
-* Estudios locales con HEC-RAS, Azul y Carossio, escala de pocos Km2.
+* Estudio local con HEC-RAS para el municipio de Azul.
+
+* Estudio pormenorizado en tiempo real: DEM + JRC + HEC-RAS
 
 * Estudios a gran escala con Lisflood-FP, incluso continental, aproximación conceptual Sub-Grid, ver presentación del trabajo de Páez, Golin y Villanueva en `MECOM23@Concordia-Salto <https://amcaonline.org.ar/ojs/index.php/mc/article/view/6745>`_, y la estimación iterativa del lecho de `Neal et al. (2021)  <https://doi.org/10.1029/2020WR028301>`_.
 
