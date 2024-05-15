@@ -11,8 +11,8 @@ Se  intercalarán a lo largo del curso las sesiones siguientes por expertos a co
 
 * Revisión de las recientes inundaciones en Porto Alegre y Concordia-Salto. 
 
-Diagrama de flujo de datos y procesado en un Sistema de Alerta Temprana (SAT, o EWS Early-Warning-System)
- `Najafi et al. (2024) <https://doi.org/10.1038/s41467-024-48065-y>`_
+Diagrama de flujo de datos y procesado en un Sistema de Alerta Temprana (SAT, o EWS Early-Warning-System), de
+ `Najafi et al. (2024) <https://doi.org/10.1038/s41467-024-48065-y>`_.
 
 .. image:: ./Pics/EWS_flowchart.jpg
   :width: 540
