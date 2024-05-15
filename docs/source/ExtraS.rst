@@ -9,13 +9,12 @@ Se  intercalarán a lo largo del curso las sesiones siguientes por expertos a co
 
 * Riesgo en entornos urbanos, armado de MDE a partir de vuelos drone y escenarios de lluvias, caso de Tandil, por Lorena La Macchia.
 
-* Revisión de Módulos Agro-Hidrológicos para el sector agro.
+* Revisión de las recientes inundaciones en Porto Alegre y Concordia-Salto. 
 
-Ejemplo de evaluación financiera del riesgo: daños acrecentados por cambio climático.
-Cuadro figurativo de Risk Management para el sector agro, por `Benami et al. (2021) 
-<https://doi.org/10.1038/s43017-020-00122-y>`_
+Diagrama de flujo de datos y procesado en un Sistema de Alerta Temprana (SAT, o EWS Early-Warning-System)
+ `Najafi et al. (2024) <https://doi.org/10.1038/s41467-024-48065-y>`_
 
-.. image:: ./Pics/RiskManagementRed.png
+.. image:: ./Pics/EWS_flowchart.jpg
   :width: 540
-  :alt: RiskManagement
+  :alt: EWS
   :align: center 
