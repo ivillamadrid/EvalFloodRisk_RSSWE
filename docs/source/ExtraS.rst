@@ -3,9 +3,11 @@ Sesiones especiales
 
 Se  intercalarán a lo largo del curso las sesiones siguientes por expertos a confirmar:
 
-* Riesgo Hídrico Poblacional en Misiones, por Ramiro Páez.
+* Riesgo Hídrico Poblacional en La Pampa, por Ramiro Páez.
 
-* Interacción aguas subterráneas-superficiales, cuenca del Azul.
+* Monitoreo Hidrometeorológico y red de alerta en la cuenca del Azul, por Georgina Cazenave.
+
+* Medición de caudal en la cuenca del Azul mediante LSPIV, por Magalí Fornés.
 
 * Riesgo en entornos urbanos, armado de MDE a partir de vuelos drone y escenarios de lluvias, caso de Tandil, por Lorena La Macchia.
 
