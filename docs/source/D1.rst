@@ -2,7 +2,7 @@
 Primera Sesión
 ==============
 
-.. image:: ./Pics/HANDpcraster_FABDEMv1p2.png
+.. image:: ./Pics/Longitudinal_Yuqueri_Pmedio.png
   :width: 540
   :alt: HAND
   :align: center 
@@ -26,6 +26,11 @@ Introducción
 
   * Llanura Pampeana: Azul, Buenos Aires. 
   * Quebrada Andina: Carossio, Lima.
+
+Práctica de riesgo hídrico poblacional en La Pampa
+--------------------------------------------------
+
+* Basada en QGIS, con datos de radios censales, NBI, y capas JRC, siguiendo a Ramiro Páez.
 
 Datos globales en abierto
 -------------------------
