@@ -12,8 +12,8 @@ Apps:
 
 Base Datos Inundaciones global:
 -------------------------------
-`JRC <https://global-surface-water.appspot.com/>`_
 `GFD <https://developers.google.com/earth-engine/datasets/catalog/GLOBAL_FLOOD_DB_MODIS_EVENTS_V1#description>`_
+`JRC <https://global-surface-water.appspot.com/>`_
 
 Modelo Digital Elevaciones global y nacional, capas SIG nacionales:
 -------------------------------------------------------------------
@@ -22,9 +22,9 @@ Modelo Digital Elevaciones global y nacional, capas SIG nacionales:
 
 `Copernicus DEM <https://spacedata.copernicus.eu/collections/copernicus-digital-elevation-model>`_
 
-`FABDEM(MDT) <https://data.bris.ac.uk/data/dataset/s5hqmjcdj8yo2ibzi9b4ew3sn>`_
+`FABDEM (MDT) <https://data.bris.ac.uk/data/dataset/s5hqmjcdj8yo2ibzi9b4ew3sn>`_
 
-`MDEs(MDSs) y MDTs IGN-Argentina <https://www.ign.gob.ar/NuestrasActividades/Geodesia/ModeloDigitalElevaciones/Mapa>`_
+`MDEs (MDSs) y MDTs IGN-Argentina <https://www.ign.gob.ar/NuestrasActividades/Geodesia/ModeloDigitalElevaciones/Mapa>`_
 
 
 
