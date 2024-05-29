@@ -1,5 +1,5 @@
-Séptima sesión: aplicaciones Google-Earth-Engine
-================================================
+Sexta sesión: inicio de aplicaciones Google-Earth-Engine
+========================================================
 
 .. image:: ./Pics/SAR_EbroLab.png
   :width: 540
