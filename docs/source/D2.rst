@@ -23,7 +23,7 @@ Conceptos y ecuaciones básicas para modelizar procesos de lluvia-escorrentía e
 
 * Estudio local con HEC-RAS para el municipio de Azul.
 
-* Estudios pormenorizado en tiempo real, trabajando con: 
+* Estudios pormenorizados en tiempo real, trabajando con: 
 
   #. DEM (MDE-Ar, FABDEM, Copernicus-30)
   #. JRC 
