@@ -5,7 +5,7 @@ Se  intercalarán a lo largo del curso las sesiones siguientes por expertos a co
 
 * Riesgo Hídrico Poblacional en La Pampa, por Ramiro Páez.
 
-* Monitoreo Hidrometeorológico y red de alerta en la cuenca del Azul, por Georgina Cazenave.
+* Monitoreo Hidrometeorológico y red de alerta temprana en la cuenca del Azul, por Georgina Cazenave.
 
 * Medición de caudal en la cuenca del Azul mediante LSPIV, por Magalí Fornés.
 
