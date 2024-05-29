@@ -17,9 +17,20 @@ Fotogrametría con Open-Drone-Map
 
 * Análisis de los MDEs previos con el modelo hidrodinámico HEC-RAS.
 
+Aclaraciones sobre la precisión en la vertical
+----------------------------------------------
+
+* Rangos de aplicabilidad y precisión espacial de las técnicas comunmente disponibles
+
+.. image:: ./Pics/UpstreamView.png
+  :width: 540
+  :alt: UpstreamView
+  :align: center 
+
+
 LSPIV con RIVeR
 ---------------
 
 * Aforos por velocimetría de partículas a gran escala LSPIV, con videos drone.
 
-* Casos particulares del arroyo Azul.
+* Caso particular del arroyo Azul en Parish, por Magalí Fornes.
