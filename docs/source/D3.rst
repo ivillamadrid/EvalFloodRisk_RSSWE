@@ -22,9 +22,9 @@ Aclaraciones sobre la precisión en la vertical
 
 * Rangos de aplicabilidad y precisión espacial de las técnicas comunmente disponibles
 
-.. image:: ./Pics/UpstreamView.png
+.. image:: ./Pics/VAccuracy-Scales_Schumann-Bates_2018.jpg
   :width: 540
-  :alt: UpstreamView
+  :alt: Scales&Acc
   :align: center 
 
 
