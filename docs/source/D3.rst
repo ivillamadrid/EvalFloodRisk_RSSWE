@@ -35,4 +35,4 @@ LSPIV con RIVeR
 
 * Aforos por velocimetría de partículas a gran escala LSPIV, con videos drone.
 
-* Caso particular del arroyo Azul en Parish, por Magalí Fornes.
+* Caso particular del arroyo Azul en Parish, por Magalí Fornés.
