@@ -65,8 +65,8 @@ Bibliografía LSPIV:
 Masafu, C., & Williams, R. (2024). **Satellite video remote sensing for flood model validation**. Water Resources
 Research, 60, e2023WR034545. https://doi.org/10.1029/2023WR034545.
 
-Ortíz Martínez B., 2024. **Diseño de Prototipo de Estimación del Caudal, Mediante Velocimetría por Imágenes de Partículas a Gran Escala.** Tesis
-Magister en energía y ambiente, Instituto Tecnológico Buenos Aires y Salto Grande. Universidad Católica “Nuestra Señora de la Asunción”. Asunción, Paraguay.
+Ortíz-Martínez B., 2024. **Diseño de Prototipo de Estimación del Caudal, Mediante Velocimetría por Imágenes de Partículas a Gran Escala.** Tesis
+Magister en energía y ambiente, Instituto Tecnológico de Buenos Aires y Salto Grande. Universidad Católica “Nuestra Señora de la Asunción”, Asunción, Paraguay.
 
 Patalano, A., García, C.M., Rodríguez, A., 2017. **Rectification of Image Velocity Results (RIVeR ): A simple and user-friendly toolbox for large scalewater surface Particle Image Velocimetry ( PIV ) and Particle Tracking Velocimetry ( PTV )** Computers & Geosciences, Volume 109,
 2017, Pages 323-330, https://doi.org/10.1016/j.cageo.2017.07.009109
