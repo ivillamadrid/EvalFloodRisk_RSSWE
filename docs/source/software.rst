@@ -59,6 +59,18 @@ Bibliografía Riesgo Hídrico Poblacional:
 
 Campos, H. R. P., & Dornes, P. F. (2016). **Riesgo hídrico poblacional a la contaminación por efluentes urbanos en Misiones**. Revista de Geología Aplicada a la Ingeniería y al Ambiente, (37), 57-66. https://www.editoresasagai.org.ar/ojs/index.php/rgaia/article/view/118
 
+Bibliografía LSPIV:
+-------------------
+
+Masafu, C., & Williams, R. (2024). **Satellite video remote sensing for flood model validation**. Water Resources
+Research, 60, e2023WR034545. https://doi.org/10.1029/2023WR034545.
+
+Ortíz Martínez B., 2024. **Diseño de Prototipo de Estimación del Caudal, Mediante Velocimetría por Imágenes de Partículas a Gran Escala.** Tesis
+Magister en energía y ambiente, Instituto Tecnológico Buenos Aires y Salto Grande. Universidad Católica “Nuestra Señora de la Asunción”. Asunción, Paraguay.
+
+Patalano, A., García, C.M., Rodríguez, A., 2017. **Rectification of Image Velocity Results (RIVeR ): A simple and user-friendly toolbox for large scalewater surface Particle Image Velocimetry ( PIV ) and Particle Tracking Velocimetry ( PTV )** Computers & Geosciences, Volume 109,
+2017, Pages 323-330, https://doi.org/10.1016/j.cageo.2017.07.009109
+
 Bibliografía General:
 ---------------------
 
@@ -86,9 +98,6 @@ Hawker, L., Uhe, P., Paulo, L., Sosa, J., Savage, J., Sampson, C., & Neal, J. (2
 
 La Macchia, L. (2023). **Modelización hidrodinámica bidimensional y riesgo de inundación mediante TIG: Potencialidades de aplicación para la cuenca urbana de la ciudad de Tandil desde una Geografía Aplicada**. Tesis de Maestría en Teledetección y SIG, Facultad de Agronomía, UNCPBA, Azul.
 https://www.researchgate.net/publication/379998397_Modelizacion_hidrodinamica_bidimensional_y_riesgo_de_inundacion_mediante_TIG_Potencialidades_de_aplicacion_para_la_cuenca_urbana_de_la_ciudad_de_Tandil_desde_una_Geografia_Aplicada
-
-Masafu, C., & Williams, R. (2024). **Satellite video remote sensing for flood model validation**. Water Resources
-Research, 60, e2023WR034545. https://doi.org/10.1029/2023WR034545.
 
 Montenegro, A., Holzman, M., Fernandez, D., Mañueco, L. and Guiñazu, M. (2022). **Detección de agua en superficie en el río Negro con índices espectrales y análisis del impacto sobre el acuífero freático**. 2022 IEEE Biennial Congress of Argentina (ARGENCON), San Juan, Argentina, 2022, pp. 1-7, doi: 10.1109/ARGENCON55245.2022.9940083.
 
