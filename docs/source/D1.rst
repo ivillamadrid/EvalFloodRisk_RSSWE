@@ -2,12 +2,13 @@
 Primera Sesión
 ==============
 
-.. image:: ./Pics/Longitudinal_Yuqueri_Pmedio.png
+.. image:: ./Pics/HAND_Concordia_2024-05-14.png
   :width: 540
   :alt: HAND
   :align: center 
 
-Imagen ejemplo de superposición de algoritmo HAND sobre MDE con inundación real en Concordia y Salto, Argentina y Uruguay.
+Imagen ejemplo de superposición de vuelo CONAE sobre algoritmo HAND  en Concordia y Salto, Argentina y Uruguay,
+14 de Mayo de 2024.
 
 .. Máxima área inundada en la cuenca del Salado, periodo 2001-2016, procesado por `Tellman et al. (2021) 
 .. <https://doi.org/10.1002/9781119427339.ch5>`_
