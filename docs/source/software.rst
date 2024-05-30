@@ -6,6 +6,7 @@ Marco teórico a través del enlace `Moodle de UNCA <https://moodle-tecno.unca.e
 Apps:
 -----
 `GNUPLOT <http://www.gnuplot.info/download.html>`_
+`MeshLab <https://www.meshlab.net/>`_
 `Python <https://www.python.org/downloads/>`_
 `QGIS <https://qgis.org/es/site/forusers/download.html>`_
 `R <https://cran.r-project.org/mirrors.html>`_
