@@ -106,7 +106,10 @@ Neal, J., Villanueva, I., Wright, N., Willis, T., Fewtrell, T. and Bates, P. (20
 
 Nevo, S., Morin, E., Gerzi Rosenthal, A., Metzger, A., Barshai, C., Weitzner, D., Voloshin, D., Kratzert, F., Elidan, G., Dror, G., Begelman, G., Nearing, G., Shalev, G., Noga, H., Shavitt, I., Yuklea, L., Royz, M., Giladi, N., Peled Levi, N., Reich, O., Gilon, O., Maor, R., Timnat, S., Shechter, T., Anisimov, V., Gigi, Y., Levin, Y., Moshe, Z., Ben-Haim, Z., Hassidim, A., and Matias, Y.: **Flood forecasting with machine learning models in an operational framework**, Hydrol. Earth Syst. Sci., 26, 4013–4032, https://doi.org/10.5194/hess-26-4013-2022, 2022.
 
-Jean-Francois Pekel, Andrew Cottam, Noel Gorelick, Alan S. Belward, High-resolution mapping of global surface water and its long-term changes. Nature 540, 418-422 (2016). https://doi.org/10.1038/nature20584
+Jean-Francois Pekel, Andrew Cottam, Noel Gorelick, Alan S. Belward (2016). **High-resolution mapping of global surface water and its long-term changes.** Nature 540, 418-422 (2016). https://doi.org/10.1038/nature20584
+
+Thomas J. Pingel, Keith C. Clarke, William A. McBride, (2013). **An improved simple morphological filter for the terrain classification of airborne LIDAR data**. ISPRS Journal of Photogrammetry and Remote Sensing, Volume 77, 2013, Pages 21-30, https://doi.org/10.1016/j.isprsjprs.2012.12.002.
+
 
 Sánchez, C.D., Villanueva, I., Guevara, C.C. (2023). 
 **Modelación Hidrodinámica Bidimensional bajo Enfoques Implícitos y Explícitos para la Gestión Integral de Inundaciones en Áreas Urbanas Ubicadas en Zonas de Llanura a Través de Herramientas de Uso Libre y RPAS**. Mecánica Computacional, Vol. 40, Núm. 43,  pp 1661-1670. https://amcaonline.org.ar/ojs/index.php/mc/article/view/6739
