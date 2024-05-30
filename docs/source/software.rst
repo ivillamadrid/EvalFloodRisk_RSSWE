@@ -72,7 +72,7 @@ https://www.researchgate.net/publication/327821889_MODELO_BIDIMENSIONAL_DE_INUND
 
 Donchyts, G., Winsemius, H., Baart, F. et al. (2022). **High-resolution surface water dynamics in Earth’s small and medium-sized reservoirs**. Sci Rep 12, 13776 (2022). https://doi.org/10.1038/s41598-022-17074-6
 
-Garrote, J. (2022). **Free Global DEMs and Flood Modelling—A Comparison Analysis for the January 2015 Flooding Event in Mocuba City (Mozambique)**. Water 2022, 14, 176.https://doi.org/10.3390/w14020176
+Garrote, J. (2022). **Free Global DEMs and Flood Modelling—A Comparison Analysis for the January 2015 Flooding Event in Mocuba City (Mozambique)**. Water 2022, 14, 176. https://doi.org/10.3390/w14020176
 
 Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., & Moore, R. (2017). **Google Earth Engine: Planetary-scale geospatial analysis for everyone**. Remote Sensing of Environment, 202, 18-27. https://doi.org/10.1016/j.rse.2017.06.031
 
