@@ -54,11 +54,6 @@ Monitoreo hidro-meteorológico:
 `BDH@IHLLA <https://app.ihlla.org.ar/>`_
 `IHREDA@IHLLA <http://ftp.redimec.com.ar:5080>`_
 
-Bibliografía Riesgo Hídrico Poblacional:
-----------------------------------------
-
-Campos, H. R. P., & Dornes, P. F. (2016). **Riesgo hídrico poblacional a la contaminación por efluentes urbanos en Misiones**. Revista de Geología Aplicada a la Ingeniería y al Ambiente, (37), 57-66. https://www.editoresasagai.org.ar/ojs/index.php/rgaia/article/view/118
-
 Bibliografía LSPIV:
 -------------------
 
@@ -70,6 +65,11 @@ Magister en energía y ambiente, Instituto Tecnológico de Buenos Aires y Salto 
 
 Patalano, A., García, C.M., Rodríguez, A. (2017). **Rectification of Image Velocity Results (RIVeR ): A simple and user-friendly toolbox for large scalewater surface Particle Image Velocimetry ( PIV ) and Particle Tracking Velocimetry ( PTV )** Computers & Geosciences, Volume 109,
 2017, Pages 323-330, https://doi.org/10.1016/j.cageo.2017.07.009109
+
+Bibliografía Riesgo Hídrico Poblacional:
+----------------------------------------
+
+Campos, H. R. P., & Dornes, P. F. (2016). **Riesgo hídrico poblacional a la contaminación por efluentes urbanos en Misiones**. Revista de Geología Aplicada a la Ingeniería y al Ambiente, (37), 57-66. https://www.editoresasagai.org.ar/ojs/index.php/rgaia/article/view/118
 
 Bibliografía General:
 ---------------------
