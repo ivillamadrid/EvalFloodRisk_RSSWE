@@ -121,4 +121,8 @@ Flavia Tauro, John Selker, Nick van de Giesen, Tommaso Abrate, Remko Uijlenhoet,
 S. P. Villacorta, K. G. Evans, K. Nakatani and I. Villanueva, (2020). **Large debris flows in Chosica, Lima, Peru: the application of hydraulic infrastructure for erosion control and disaster prevention**. Australian Journal of Earth Sciences,
 Vol 67, n 3, pp 425-436, 2020. https://doi.org/10.1080/08120099.2020.1690577
 
+Villanueva, I. (2024). **Drainage network for a region in central Buenos Aires province, 
+30m resolution raster, EPSG:5347** [Data set]. 
+Zenodo. https://doi.org/10.5281/zenodo.11409124
+
 
