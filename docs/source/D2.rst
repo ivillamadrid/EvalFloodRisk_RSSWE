@@ -31,14 +31,17 @@ Conceptos y ecuaciones básicas para modelizar procesos de lluvia-escorrentía e
   #. Algoritmo HAND sobre QGIS con PCraster y FABDEM: propuesta sobre Concordia, Entre Ríos
   #. Red de drenaje en Azul sobre Copernicus-30, obtenida con PCraster sobre QGIS
 
-* Estudios a gran escala con Lisflood-FP, incluso continental, aproximación conceptual Sub-Grid, ver presentación del trabajo de Páez, Golin y Villanueva en `MECOM23@Concordia-Salto <https://amcaonline.org.ar/ojs/index.php/mc/article/view/6745>`_, y la estimación iterativa del lecho de `Neal et al. (2021)  <https://doi.org/10.1029/2020WR028301>`_.
+* Estudios a gran escala con Lisflood-FP, incluso continental, aproximación conceptual Sub-Grid, ver presentación del trabajo de Páez, Golin y Villanueva en `MECOM23@Concordia-Salto <https://amcaonline.org.ar/ojs/index.php/mc/article/view/6745>`_.
 
-.. image:: ./Pics/Iterative_Bed_Estimation.jpg
-  :width: 540
-  :alt: IterativeBedEstimation
-  :align: center 
+..
+  y la estimación iterativa del lecho de `Neal et al. (2021)  <https://doi.org/10.1029/2020WR028301>`_.
 
-Imagen conceptual de las iteraciones para definir el lecho del cauce.
+  .. image:: ./Pics/Iterative_Bed_Estimation.jpg
+    :width: 540
+    :alt: IterativeBedEstimation
+    :align: center 
+
+  Imagen conceptual de las iteraciones para definir el lecho del cauce.
 
 
 
