@@ -55,7 +55,9 @@ Mapping on-line:
 Monitoreo hidro-meteorológico:
 ------------------------------
 `Google Flood Hub <https://sites.research.google/floods/>`_
+
 `BDH@IHLLA <https://app.ihlla.org.ar/>`_
+
 `IHREDA@IHLLA <http://ftp.redimec.com.ar:5080>`_
 
 Bibliografía LSPIV:
