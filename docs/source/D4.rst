@@ -38,6 +38,10 @@ Precipitación, humedad del suelo y otros índices
 
 * Índices *NDVI* y *SPI*
 
+Scripts Compartidos
+--------------------
+`Google Earth Engine Scripts Ejemplo <https://code.earthengine.google.com/?accept_repo=users/ivillamadrid/UNCA>`_
+
 
 
 
