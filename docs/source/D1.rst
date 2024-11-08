@@ -29,8 +29,10 @@ Introducción
   * *D* : Damage o daño; :math:`D = L * V(H)`
   * *R* : Risk o riesgo; :math:`R = H * D = H * L * V(H)`
   * *C* : Cost o coste de una acción mitigadora
-  * Evaluación de un evento o crisis; se cumple :math:`R > C` o :math:`H > \frac{C}{D}`
-
+  * Evaluación de un evento o crisis; se cumple :math:`R > C` o 
+.. math::
+  H > \frac{C}{D}
+  
 
 * Objetivos generales del curso.
 
