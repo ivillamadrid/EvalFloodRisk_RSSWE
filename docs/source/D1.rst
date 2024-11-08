@@ -26,10 +26,11 @@ Introducción
   * $H$ : Hazard o probabilidad de la fuente u origen del riesgo 
   * $L$ : Exposure o exposición, tipicamente evaluable con un $GIS$
   * $V$ : Vulnerability o vulnerabilidad de la zona de exposición, es una función  $V(H)$
-  * $D$ : Damage o daño; $D=L*V(H)$
-  * $R$ : Risk o riesgo; $R = H * D = H * L * V(H)$
+  * $D$ : Damage o daño; :math:`D = L * V(H)`
+  * $R$ : Risk o riesgo; :math:`R = H * D = H * L * V(H)`
   * $C$ : Cost o coste de una acción mitigadora
-  * Evaluación de un evento o crisis; $R > C$  
+  * Evaluación de un evento o crisis; se cumple $R > C$ o :math:`H > \frac{C}{D}`
+
 
 * Objetivos generales del curso.
 
