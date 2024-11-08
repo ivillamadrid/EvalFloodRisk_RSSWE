@@ -29,11 +29,12 @@ Introducción
   * *D* : Damage o daño; :math:`D = L * V(H)`
   * *R* : Risk o riesgo; :math:`R = H * D = H * L * V(H)`
   * *C* : Cost o coste de una acción mitigadora
-  * Evaluación de un evento o crisis pesando la desigualdad  :math:`R > C`  o
+  * Evaluación de un evento o crisis cuando  :math:`R > C`  o
 
 .. math::
-  H > \frac{C}{D} ?
-  
+  H > \frac{C}{D} 
+
+Actualmente *H* y *D* crecen como consecuencia del Cambio Climático.
 
 * Objetivos generales del curso.
 
