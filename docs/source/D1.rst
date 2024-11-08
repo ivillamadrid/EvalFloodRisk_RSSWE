@@ -36,7 +36,7 @@ Introducción
 
 .. admonition::
 
-Actualmente *H* y *D* crecen como consecuencia del Cambio Climático.
+  Actualmente *H* y *D* crecen como consecuencia del Cambio Climático.
 
 * Objetivos generales del curso.
 
