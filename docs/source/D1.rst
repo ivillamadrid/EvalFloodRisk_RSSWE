@@ -32,7 +32,7 @@ Introducción
   * Evaluación de un evento o crisis. Se cumple :math:`R > C` ? Equivalentemente; 
 
 .. math::
-  H > \frac{C}{D}
+  H > \frac{C}{D} ?
   
 
 * Objetivos generales del curso.
