@@ -34,7 +34,7 @@ Introducción
 .. math::
   H > \frac{C}{D} 
 
-.. code:: python 
+.. highlights:: 
    Actualmente *H* y *D* crecen como consecuencia del Cambio Climático.
 
 * Objetivos generales del curso.
