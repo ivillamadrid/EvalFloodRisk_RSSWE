@@ -24,11 +24,11 @@ Introducción
 * Motivación: principios del Riesgo
 
   * *H* : Hazard o probabilidad de la fuente u origen del riesgo. 
-  * *L* : Exposure o exposición, tipicamente evaluable con un *GIS*.
+  * *L* : Exposure o exposición, tipicamente evaluable con un *GIS* e imágenes satelitales.
   * *V* : Vulnerability o vulnerabilidad de la zona de exposición, es una función  *V(H)* sobre *L*, calculable con modelos matemáticos de simulación.
   * *D* : Damage o daño; :math:`D = L * V(H)`
   * *R* : Risk o riesgo; :math:`R = H * D = H * L * V(H)`
-  * *C* : Cost o coste de una acción mitigadora.
+  * *C* : Cost o coste de una acción preventiva o mitigadora.
   * Evaluación de un evento de crisis en condiciones   :math:`R > C`, o equivalentemente 
 
 .. math::
