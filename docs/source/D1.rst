@@ -34,7 +34,7 @@ Introducción
 .. math::
   H > \frac{C}{D} 
 
-.. admonition:: Actualmente *H* y *D* crecen como consecuencia del Cambio Climático.
+.. highlights:: Actualmente *H* y *D* crecen como consecuencia del Cambio Climático.
 
 * Objetivos generales del curso.
 
